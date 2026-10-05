@@ -4,12 +4,12 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "monacloud"
-version = "0.1.0"
+version = "0.1.1"
 description = "SDK Python zero-dependency cho MONA Cloud"
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
-authors = [{ name = "The MONA Group", email = "info@themona.global" }]
+authors = [{ name = "MONA Software", email = "info@themona.global" }]
 dependencies = []
 keywords = ["monacloud", "cloud", "vps", "database", "mona"]
 classifiers = [
@@ -22,6 +22,7 @@ classifiers = [
 [project.urls]
 Homepage = "https://monacloud.vn"
 Documentation = "https://monacloud.vn/ai-agent"
+Repository = "https://github.com/mona-software/monacloud-python"
 
 [tool.setuptools.packages.find]
 include = ["monacloud*"]

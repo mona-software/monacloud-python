@@ -37,3 +37,5 @@ python -m unittest
 ```
 
 Xem [hướng dẫn AI agent](https://monacloud.vn/ai-agent).
+
+**MONA Cloud SDK thuộc bộ MONA Cloud của The MONA Group.**

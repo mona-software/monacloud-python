@@ -1,11 +1,12 @@
 Metadata-Version: 2.4
 Name: monacloud
-Version: 0.1.0
+Version: 0.1.1
 Summary: SDK Python zero-dependency cho MONA Cloud
-Author-email: The MONA Group <info@themona.global>
+Author-email: MONA Software <info@themona.global>
 License: MIT
 Project-URL: Homepage, https://monacloud.vn
 Project-URL: Documentation, https://monacloud.vn/ai-agent
+Project-URL: Repository, https://github.com/mona-software/monacloud-python
 Keywords: monacloud,cloud,vps,database,mona
 Classifier: Development Status :: 3 - Alpha
 Classifier: License :: OSI Approved :: MIT License
@@ -55,3 +56,5 @@ python -m unittest
 ```
 
 Xem [hướng dẫn AI agent](https://monacloud.vn/ai-agent).
+
+**MONA Cloud SDK thuộc bộ MONA Cloud của The MONA Group.**
