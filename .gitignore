@@ -8,3 +8,5 @@ __pycache__/
 .env.*
 CODEX-NOTE.md
 .DS_Store
+build/
+*.egg-info/
